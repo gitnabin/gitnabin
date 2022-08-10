@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nabingit
-- 👀 I’m interested in everything.
-- 🌱 I’m currently learning linux systems and ethical hacking.
+- 🌱 I’m currently learning linux systems.
 - 💞️ I’m looking for nothing but help.
 - 📫 Contact: nabinbhusal101@gmail.com
 
