@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nabingit
 - 🌱 I’m currently learning linux systems.
-- 💞️ I’m looking for nothing but help.
 - 📫 Contact: nabinbhusal101@gmail.com
 
 <!---
